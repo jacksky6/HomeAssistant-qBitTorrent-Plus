@@ -1,7 +1,7 @@
 {
-  "domain": "qbittorrent_alternative_speed",
-  "name": "qBittorrent alternative speed switch",
-  "documentation": "https://github.com/JurajNyiri/HomeAssistant-qBitTorrentAlternativeSpeed",
+  "domain": "qbitTorrent_integrations",
+  "name": "qBitTorrent Integrations",
+  "documentation": "https://github.com/xingyuxiaxiang/HomeAssistant-qBitTorrent-integrations",
   "dependencies": [],
   "codeowners": ["@xingyuxiaxiang"],
   "requirements": ["qbittorrent-api==0.4.2", "python-qbittorrent==0.4.2"],
