@@ -1,8 +1,8 @@
-# qBittorrent alternative speed switch for Home Assistant
-Adds ability to switch alternative speed in qBittorrent through Home Assistant.
+# qBittorrent Plus Integrations for Home Assistant
+show qBittorrent info and adds ability to switch alternative speed in qBittorrent through Home Assistant.
 
 ## Installation:
-Copy file custom_components/qbittorrent_alternative_speed/switch.py to custom_components/qbittorrent_alternative_speed/switch.py
+Copy file custom_components/qbittorrent_plus/switch.py to custom_components/qbittorrent_alternative_speed/switch.py
 
 ## Usage:
 Add to configuration.yaml:
