@@ -1,7 +1,7 @@
 {
-  "domain": "qbitTorrent_integrations",
-  "name": "qBitTorrent Integrations",
-  "documentation": "https://github.com/xingyuxiaxiang/HomeAssistant-qBitTorrent-integrations",
+  "domain": "qbittorrent_plus",
+  "name": "qBitTorrent Plus",
+  "documentation": "https://github.com/xingyuxiaxiang/HomeAssistant-qBitTorrent-Plus",
   "dependencies": [],
   "codeowners": ["@xingyuxiaxiang"],
   "requirements": ["qbittorrent-api==0.4.2", "python-qbittorrent==0.4.2"],
