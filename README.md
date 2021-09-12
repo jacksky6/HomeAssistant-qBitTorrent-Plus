@@ -1,3 +1,6 @@
+# 暂时处于不可用状态
+
+
 # qBittorrent Plus Integrations for Home Assistant
 show qBittorrent info and adds ability to switch alternative speed in qBittorrent through Home Assistant.
 
