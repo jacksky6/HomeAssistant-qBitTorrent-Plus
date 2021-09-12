@@ -18,13 +18,4 @@ switch:
     name: [Optional: Name of switch in Home Assistant, default: qbittorrent_alternative_speed]
 ```
 
-## Track Updates
-This custom component can be tracked with the help of [custom-lovelace](https://github.com/ciotlosm/custom-lovelace).
 
-In your configuration.yaml
-
-```
-custom_updater:
-  component_urls:
-    - https://raw.githubusercontent.com/JurajNyiri/HomeAssistant-qBitTorrentAlternativeSpeed/master/custom_updater.json
-```
