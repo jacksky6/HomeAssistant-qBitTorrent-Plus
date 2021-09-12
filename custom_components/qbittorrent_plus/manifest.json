@@ -3,6 +3,7 @@
   "name": "qBitTorrent Plus",
   "documentation": "https://github.com/xingyuxiaxiang/HomeAssistant-qBitTorrent-Plus",
   "dependencies": [],
+  "config_flow": true,
   "codeowners": ["@xingyuxiaxiang"],
   "requirements": ["qbittorrent-api==0.4.2", "python-qbittorrent==0.4.2"],
   "version": "0.1.1"
